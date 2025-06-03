@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/future-fs-01/static/css/main.f855e6bc.css",
-    "main.js": "/future-fs-01/static/js/main.fe0516fe.js",
-    "static/js/453.5cb844f5.chunk.js": "/future-fs-01/static/js/453.5cb844f5.chunk.js",
-    "index.html": "/future-fs-01/index.html",
-    "main.f855e6bc.css.map": "/future-fs-01/static/css/main.f855e6bc.css.map",
-    "main.fe0516fe.js.map": "/future-fs-01/static/js/main.fe0516fe.js.map",
-    "453.5cb844f5.chunk.js.map": "/future-fs-01/static/js/453.5cb844f5.chunk.js.map"
+    "main.css": "/FUTURE_FS_01-/static/css/main.f855e6bc.css",
+    "main.js": "/FUTURE_FS_01-/static/js/main.0e0527f8.js",
+    "static/js/453.5cb844f5.chunk.js": "/FUTURE_FS_01-/static/js/453.5cb844f5.chunk.js",
+    "index.html": "/FUTURE_FS_01-/index.html",
+    "main.f855e6bc.css.map": "/FUTURE_FS_01-/static/css/main.f855e6bc.css.map",
+    "main.0e0527f8.js.map": "/FUTURE_FS_01-/static/js/main.0e0527f8.js.map",
+    "453.5cb844f5.chunk.js.map": "/FUTURE_FS_01-/static/js/453.5cb844f5.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f855e6bc.css",
-    "static/js/main.fe0516fe.js"
+    "static/js/main.0e0527f8.js"
   ]
 }
